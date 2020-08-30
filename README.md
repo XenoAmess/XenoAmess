@@ -17,6 +17,10 @@ https://github.com/cyanpotion/x8l
 https://github.com/XenoAmess/EXsimple
 
 #### (Java) cyan_zip, a multi-forcasting-range-encode compressing algorithm.
+https://github.com/cyanpotion/cyan_zip
+
+#### (Java) SDL_GameControllerDB_Util, an easier way to get gamecontrollerdb.txt more easily for java game/engine developers.
+https://github.com/cyanpotion/SDL_GameControllerDB_Util
 
 ## Maven plugins:
 
