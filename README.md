@@ -1,16 +1,41 @@
-### Hi there 👋
+Hi, XenoAmess here.
 
-<!--
-**XenoAmess/XenoAmess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java programmer, also java game engine developer.
 
-Here are some ideas to get you started:
+I also help to do clean-up / bugfix / bug-reports to some java repos / toolchains I used,
+but most of my efforts are on my own repos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Main Normal Repos:
+
+#### (Java) cyan_potion, a java 2D game engine based on lwjgl
+https://github.com/cyanpotion/cyan_potion
+
+#### (Java) x8l, A new markup language, which can replace xml in most areas, but always use smaller size.
+https://github.com/cyanpotion/x8l
+
+#### (Python) Exsimple, an open netdisk, and also a light Web application framework
+https://github.com/XenoAmess/EXsimple
+
+#### (Java) cyan_zip, a multi-forcasting-range-encode compressing algorithm.
+
+## Maven plugins:
+
+#### (Java) jcpp-maven-plugin, a plugin for C pre-processing in maven project. I know it sounds crazy.
+https://github.com/XenoAmess/jcpp-maven-plugin
+
+#### (Java) add-from-repo-maven-plugin, a plugin for adding other git repo's sources/tests into this repo while building.
+https://github.com/XenoAmess/add-from-repo-maven-plugin
+
+## Jetbrains-idea plugins:
+
+#### (Java/Kotlin) p3c-TPM, a third party maintain version of alibaba p3c. Added useful utilities that I need.
+https://github.com/XenoAmess/p3c
+
+#### (Java) x8l_idea_plugin, idea plugin for markup language x8l.
+https://github.com/XenoAmess/x8l_idea_plugin
+
+## Tampermonkey scripts:
+https://greasyfork.org/en/users/182958-xenoamess
+
+## PRs:
+https://github.com/pulls?q=is%3Apr+author%3AXenoAmess
