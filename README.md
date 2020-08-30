@@ -39,3 +39,6 @@ https://greasyfork.org/en/users/182958-xenoamess
 
 ## PRs:
 https://github.com/pulls?q=is%3Apr+author%3AXenoAmess
+
+## Steam:
+https://steamcommunity.com/id/XenoAmess/
