@@ -46,3 +46,9 @@ https://github.com/pulls?q=is%3Apr+author%3AXenoAmess
 
 ## Steam:
 http://steamcommunity.com/profiles/76561198273714027
+## Codeforces:
+http://codeforces.com/profile/XenoAmess/
+## Bilibili:
+https://space.bilibili.com/8945059/#/
+## Mail:
+XenoAmess@gmail.com
