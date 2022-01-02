@@ -30,10 +30,19 @@ https://github.com/XenoAmess/jcpp-maven-plugin
 #### (Java) add-from-repo-maven-plugin, a plugin for adding other git repo's sources/tests into this repo while building.
 https://github.com/XenoAmess/add-from-repo-maven-plugin
 
+#### (Java) remove-unused-imports-maven-plugin, a plugin for removing unused imports
+https://github.com/XenoAmess/remove-unused-imports-maven-plugin
+
+#### (Java) krakatau-maven-plugin, a plugin for compiling krakatau to class in maven.
+https://github.com/XenoAmess/krakatau-maven-plugin
+
 ## Jetbrains-idea plugins:
 
 #### (Java/Kotlin) p3c-TPM, a third party maintain version of alibaba p3c. Added useful utilities that I need.
 https://github.com/XenoAmess/p3c
+
+#### (Java) idea bytecode editor TPM, idea plugin for class bytecode editing.
+https://github.com/XenoAmess/idea-bytecode-editor
 
 #### (Java) x8l_idea_plugin, idea plugin for markup language x8l.
 https://github.com/XenoAmess/x8l_idea_plugin
