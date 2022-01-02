@@ -61,5 +61,5 @@ http://codeforces.com/profile/XenoAmess/
 https://space.bilibili.com/8945059/#/
 ## Mail:
 XenoAmess@gmail.com
-## Blog (newly created, and Chinese contents only):
+## Blog (Chinese contents only):
 http://xenoamess.com/
